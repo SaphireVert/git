@@ -8241,7 +8241,7 @@ msgstr ""
 #: sha1-name.c:1704
 #, c-format
 msgid "path '%s' does not exist in '%.*s'"
-msgstr "le chemin '%s' n'existe pas dnas '%.*s'"
+msgstr "le chemin '%s' n'existe pas dans '%.*s'"
 
 #: sha1-name.c:1732
 #, c-format
